@@ -6,13 +6,6 @@
 
 ---
 
-## Run
-**NOTE:** Environment variables are in the Dockerfile, so you can set your user name password, etc there
-
-    $ docker run -ti meinfretr/docker-theship-server
-
----
-
 ## TODO:
 -Consider using Wine
 
