@@ -9,13 +9,17 @@
 ## Run
 **NOTE:** Environment variables are in the Dockerfile, so you can set your user name password, etc there
 
-    $ docker run -e meinfretr/docker-theShip-server
+    $ docker run -ti meinfretr/docker-theship-server
 
 ---
 
 ## TODO:
 -Consider using Wine
+
 -Make a docker-compose file
+
 -Probably separate env file too instead of setting everything in the Docklerfile
+
 -Maybe just a separate config file
+
 -General cleanup and less of a hot mess when I can actually verify this
